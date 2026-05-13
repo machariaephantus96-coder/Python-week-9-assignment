@@ -1,0 +1,101 @@
+,patient_id,first_name,last_name,gender,dob,blood_type,admission_date,discharge_date,diagnosis,insurance_provider
+0,1,Bibbye,Hobell,Female,12/26/2004,O,6/23/2021,8/11/2021,Diabetes,Aetna
+1,2,Tiertza,Tomik,Female,5/9/1981,B,6/30/2021,5/12/2021,Cancer,Blue Cross Blue Shield
+2,3,Shara,Greening,Female,4/28/1956,A,1/16/2020,9/25/2021,Cancer,Cigna
+3,4,Decca,Rowat,Male,12/24/1951,A,4/21/2020,2/18/2020,Pneumonia,Blue Cross Blue Shield
+4,5,Antonella,Oselton,Female,3/20/1980,O,8/21/2020,7/18/2020,Diabetes,Blue Cross Blue Shield
+5,6,Caddric,Joist,Male,2/12/1961,AB,3/3/2020,8/21/2021,Pneumonia,UnitedHealthcare
+6,7,Amii,Sawnwy,Female,3/19/1989,AB,11/3/2021,5/1/2021,Diabetes,Blue Cross Blue Shield
+7,8,Saxon,Houseman,Male,5/21/1994,AB,2/4/2021,4/3/2020,Cancer,UnitedHealthcare
+8,9,Shina,Woolsey,Female,11/11/1994,A,11/21/2020,1/25/2021,Cancer,Cigna
+9,10,Blake,Bubb,Female,6/19/1960,AB,8/30/2020,11/16/2020,Diabetes,Aetna
+10,11,Vanessa,Hundley,Female,2/4/2000,A,1/15/2021,4/5/2020,Heart Disease,Aetna
+11,12,Phylis,Queste,Female,2/17/1956,AB,9/24/2020,5/21/2020,Diabetes,Blue Cross Blue Shield
+12,13,Monah,Spence,Female,10/9/1983,AB,5/11/2020,11/28/2021,Cancer,Aetna
+13,14,Kale,Koba,Male,9/14/2002,O,8/27/2021,8/14/2021,Heart Disease,Aetna
+14,15,Eamon,Jossel,Male,5/19/1960,A,4/19/2021,8/11/2021,Cancer,Aetna
+15,16,Joete,Bundey,Female,10/1/1969,A,4/28/2021,7/25/2021,Cancer,Cigna
+16,17,Sansone,Feeney,Male,1/20/2002,B,3/24/2020,10/21/2020,Cancer,Cigna
+17,18,Korie,Gaddas,Female,5/2/2003,A,5/12/2020,11/15/2020,Cancer,Cigna
+18,19,Meredeth,Zecchii,Male,8/28/2004,A,11/16/2020,3/15/2020,Diabetes,Aetna
+19,20,Corry,Ferreiro,Female,1/1/1977,AB,11/9/2020,7/30/2021,Pneumonia,UnitedHealthcare
+20,21,Kilian,Chestle,Male,6/28/1993,AB,6/25/2021,6/21/2021,Diabetes,UnitedHealthcare
+21,22,Easter,Beat,Female,9/4/1988,B,2/17/2021,4/13/2020,Pneumonia,Cigna
+22,23,Karlie,Hagley,Female,11/3/1953,O,2/18/2020,9/21/2021,Heart Disease,Cigna
+23,24,Claire,Ozintsev,Female,3/12/1971,B,12/10/2021,9/11/2021,Cancer,Cigna
+24,25,Sada,Blasl,Female,4/1/2002,O,8/9/2020,11/22/2021,Pneumonia,Cigna
+25,26,Myrilla,Adlem,Female,7/4/1966,A,8/23/2021,9/27/2021,Heart Disease,Blue Cross Blue Shield
+26,27,Kennedy,Baylie,Male,5/29/1988,B,5/29/2020,11/5/2021,Heart Disease,Cigna
+27,28,Haskel,Jose,Male,2/12/1991,AB,11/28/2021,10/17/2020,Cancer,UnitedHealthcare
+28,29,Dieter,Moores,Male,3/1/1974,A,2/22/2021,6/28/2021,Diabetes,Cigna
+29,30,Abigael,Joynt,Female,2/3/1959,O,3/19/2020,11/20/2021,Pneumonia,UnitedHealthcare
+30,31,Camila,Piddock,Female,11/4/1977,A,12/12/2021,3/5/2020,Pneumonia,UnitedHealthcare
+31,32,Gian,Ducker,Male,12/27/1961,B,8/5/2020,4/13/2020,Cancer,Aetna
+32,33,Florry,Bartosik,Female,4/12/1998,AB,8/13/2021,7/31/2020,Heart Disease,Cigna
+33,34,Stanleigh,Nast,Male,7/18/1973,B,10/2/2021,6/25/2020,Pneumonia,Aetna
+34,35,Olympia,Buckthorp,Female,9/10/2004,AB,7/6/2020,1/27/2020,Cancer,Cigna
+35,36,Brod,Bouttell,Male,3/2/1958,AB,3/23/2020,3/9/2021,Pneumonia,Blue Cross Blue Shield
+36,37,Lilla,Gamell,Female,12/4/1968,A,9/14/2020,1/18/2020,Cancer,UnitedHealthcare
+37,38,Jasper,Schultze,Male,3/13/1982,AB,10/9/2021,6/7/2021,Diabetes,Cigna
+38,39,Hazel,Upham,Female,2/28/2002,A,6/2/2020,6/22/2021,Diabetes,Cigna
+39,40,Chiquia,Dillinger,Female,11/17/1962,B,9/2/2020,11/7/2020,Pneumonia,Aetna
+40,41,Lorinda,Clare,Female,5/7/1967,O,6/4/2021,6/3/2021,Diabetes,UnitedHealthcare
+41,42,Virgilio,Bodsworth,Male,5/21/1987,O,4/30/2020,10/6/2020,Heart Disease,UnitedHealthcare
+42,43,Frans,Croydon,Male,4/11/1960,B,1/4/2021,8/12/2021,Pneumonia,Cigna
+43,44,Douglass,Kerans,Polygender,4/16/1994,O,10/4/2021,1/9/2021,Diabetes,Blue Cross Blue Shield
+44,45,Arabella,Tretwell,Female,12/30/1966,AB,1/5/2021,9/7/2020,Heart Disease,Cigna
+45,46,Agneta,Seydlitz,Female,9/24/1970,AB,8/11/2021,2/7/2021,Heart Disease,UnitedHealthcare
+46,47,Kermy,Brigstock,Male,7/13/1951,O,4/20/2020,5/1/2021,Diabetes,Aetna
+47,48,Maegan,Laugharne,Female,10/12/2002,A,11/23/2021,5/20/2021,Heart Disease,UnitedHealthcare
+48,49,Quintina,Kilbride,Female,6/15/1987,A,5/9/2020,11/17/2021,Pneumonia,Cigna
+49,50,Brena,Lorens,Female,7/7/1983,AB,2/24/2020,2/11/2020,Cancer,UnitedHealthcare
+50,51,Winnie,Tibbles,Genderqueer,3/14/1964,A,3/11/2020,3/28/2020,Diabetes,UnitedHealthcare
+51,52,Joellyn,Croydon,Non-binary,4/7/1985,AB,10/9/2021,9/26/2021,Diabetes,Cigna
+52,53,Collen,Maskelyne,Female,11/5/1960,B,5/8/2021,10/18/2021,Cancer,UnitedHealthcare
+53,54,Roddie,Prantl,Male,10/24/1964,O,1/16/2020,10/4/2021,Heart Disease,Blue Cross Blue Shield
+54,55,Hoebart,Jeannesson,Male,8/7/1997,A,7/31/2020,9/29/2020,Heart Disease,Blue Cross Blue Shield
+55,56,Cami,Druitt,Female,6/27/1952,O,10/1/2021,4/4/2021,Diabetes,UnitedHealthcare
+56,57,Betteann,Waliszek,Female,6/4/1980,A,8/1/2020,3/1/2020,Diabetes,Cigna
+57,58,Frasco,Totterdill,Male,6/15/1979,AB,12/4/2021,3/7/2020,Diabetes,Cigna
+58,59,Dun,Croose,Male,10/4/1995,AB,7/21/2020,3/16/2021,Pneumonia,Aetna
+59,60,Marline,Emerton,Female,7/16/1976,A,10/12/2020,1/13/2020,Cancer,UnitedHealthcare
+60,61,Gerick,Reddings,Male,5/10/1961,AB,8/10/2021,11/11/2020,Heart Disease,UnitedHealthcare
+61,62,Ermentrude,Echallier,Female,8/23/1951,B,3/7/2020,12/11/2020,Pneumonia,Blue Cross Blue Shield
+62,63,Willyt,Lestor,Female,12/25/1994,AB,4/4/2020,10/20/2020,Pneumonia,Blue Cross Blue Shield
+63,64,Kahaleel,Biernat,Male,5/26/1969,AB,12/5/2020,4/29/2021,Pneumonia,Cigna
+64,65,Kaleena,Wilstead,Female,7/21/1962,AB,1/22/2020,1/10/2020,Heart Disease,Cigna
+65,66,Kendall,Asey,Male,2/26/1986,AB,6/17/2021,5/16/2021,Pneumonia,Cigna
+66,67,Caryl,Jealous,Female,2/26/1962,A,7/19/2021,11/18/2020,Pneumonia,UnitedHealthcare
+67,68,Fanchette,Winger,Female,6/28/1961,O,9/25/2020,12/9/2020,Diabetes,Cigna
+68,69,Ivan,Nickless,Male,7/13/1960,O,6/28/2020,2/16/2020,Pneumonia,UnitedHealthcare
+69,70,Cully,Laxe,Male,4/20/1998,A,1/31/2021,11/6/2020,Cancer,Blue Cross Blue Shield
+70,71,Jobyna,Leys,Female,7/17/1967,A,5/12/2020,1/20/2021,Heart Disease,UnitedHealthcare
+71,72,Deloris,Jurs,Female,10/19/1991,B,8/8/2021,3/26/2020,Diabetes,Aetna
+72,73,Alexa,Charrier,Female,8/15/1951,A,7/31/2020,6/19/2020,Cancer,Cigna
+73,74,Meridith,Cobello,Female,7/29/1961,O,8/23/2020,11/16/2021,Pneumonia,Aetna
+74,75,Alwin,Mandrier,Male,9/10/1967,A,10/1/2020,9/18/2020,Heart Disease,Blue Cross Blue Shield
+75,76,Hamid,Hartzogs,Male,2/25/1985,AB,11/8/2021,5/16/2020,Cancer,Blue Cross Blue Shield
+76,77,Moises,Rupp,Male,5/14/2000,AB,5/28/2021,10/24/2020,Diabetes,Cigna
+77,78,Rafi,Yakebowitch,Male,6/13/1970,A,9/11/2021,4/30/2020,Cancer,UnitedHealthcare
+78,79,Ber,Wiskar,Male,6/6/1971,AB,9/2/2021,8/13/2021,Diabetes,Aetna
+79,80,Jarid,Gettins,Male,9/4/1967,O,7/11/2020,6/25/2020,Pneumonia,UnitedHealthcare
+80,81,Stavro,Crean,Male,1/10/1972,B,5/1/2020,8/16/2020,Diabetes,Cigna
+81,82,Richart,Cordoba,Male,9/16/1978,B,4/1/2020,4/24/2020,Cancer,Cigna
+82,83,Nealy,Bedding,Male,10/4/1970,B,6/16/2020,1/6/2020,Diabetes,Aetna
+83,84,Valeria,Treske,Female,6/30/1965,AB,6/9/2021,6/4/2021,Cancer,UnitedHealthcare
+84,85,Lebbie,Auton,Female,1/24/1975,AB,7/30/2021,6/29/2020,Heart Disease,Cigna
+85,86,Talyah,Alessandrini,Female,4/22/1992,B,4/29/2020,9/2/2021,Diabetes,Aetna
+86,87,Glynn,Ewbanck,Male,12/14/1984,O,3/12/2021,9/12/2020,Heart Disease,Blue Cross Blue Shield
+87,88,Layne,Mitrovic,Female,1/11/1974,A,9/26/2021,2/5/2021,Pneumonia,Blue Cross Blue Shield
+88,89,Elissa,Eccles,Female,1/29/1951,O,11/12/2020,1/13/2020,Cancer,Cigna
+89,90,Sol,Marquese,Male,8/26/1986,A,1/3/2021,3/13/2020,Heart Disease,Blue Cross Blue Shield
+90,91,Cherri,Chung,Female,7/9/1972,AB,9/26/2021,7/23/2021,Cancer,Aetna
+91,92,Rutger,Toulch,Male,7/4/1963,O,3/15/2021,1/13/2021,Heart Disease,Aetna
+92,93,Dacy,Drayn,Female,3/1/2003,A,5/31/2021,6/17/2020,Cancer,Blue Cross Blue Shield
+93,94,Antone,Brixey,Male,2/27/1994,AB,11/1/2021,7/12/2021,Diabetes,Aetna
+94,95,Mayer,Marjanski,Male,5/8/1969,O,12/29/2020,1/24/2021,Pneumonia,Cigna
+95,96,Wilona,Swarbrigg,Female,7/13/1972,B,4/5/2020,10/2/2021,Diabetes,Blue Cross Blue Shield
+96,97,Ruben,Emlin,Male,6/26/1968,AB,7/19/2021,10/20/2020,Pneumonia,Cigna
+97,98,Bord,Jentgens,Male,8/26/1958,A,3/31/2021,8/13/2021,Cancer,Aetna
+98,99,Esma,Keogh,Female,5/1/1981,A,6/11/2020,7/8/2020,Pneumonia,Aetna
+99,100,Lara,Atyeo,Female,4/6/1978,O,7/18/2021,1/3/2020,Diabetes,Blue Cross Blue Shield
